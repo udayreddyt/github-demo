@@ -1,5 +1,0 @@
-new file 2
-
-ed line of text added
-
-3rd line text
