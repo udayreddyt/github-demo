@@ -1,3 +1,5 @@
 new file 2
 
-2ed line of text added
+ed line of text added
+
+3rd line text
